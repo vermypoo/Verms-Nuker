@@ -4,7 +4,10 @@
 
 ❗ Basic Discord Python Server Nuker (EDUCATIONAL USE)
 
-❗ CpSpreader On Discord & DooringSkids On Twitter
+❗ Cpspreader On Discord & DooringSkids On Twitter
+
+❗ Up To 4 Options To Use
+
 
 ## Imports 
 ```
