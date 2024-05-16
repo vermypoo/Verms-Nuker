@@ -121,10 +121,10 @@ async def on_guild_channel_create(ctx):
 
 
   if ctx.guild.name == servername_1:
-     spammessage = pammessage_1
+     spammessage = spammessage_1
 
   if ctx.guild.name == servername_2:
-     spammessage = pammessage_2
+     spammessage = spammessage_2
 
   if ctx.guild.name == servername_3:
      spammessage = spammessage_3
