@@ -15,16 +15,16 @@ token = ("TOKEN HERE") # Bot Token
 channelname = "get nuked"
 
 servername_1 = "NUKED BY VERMILLION"
-spammessage_1 = '@everyone **#PACK SMOKED** \n https://discord.gg/fwendies https://discord.gg/race https://discord.gg/cybersec https://discord.gg/dishonor'
+spammessage_1 = '@everyone **#PACK SMOKED** \n https://discord.gg/fwendies https://discord.gg/gui https://discord.gg/ivi'
 
 servername_2 = "NUKED BY VERMILLION - FWENDIES"
 spammessage_2 = '@everyone **#PACK SMOKED** \n https://discord.gg/fwendies'
 
-servername_3 = "NUKED BY VERMILLION - SKIDSEC"
-spammessage_3 = '@everyone **#PACK SMOKED** \n https://discord.gg/cybersec'
+servername_3 = "NUKED BY VERMILLION - IVI"
+spammessage_3 = '@everyone **#PACK SMOKED** \n https://discord.gg/ivi'
 
-servername_4 = "NUKED BY VERMILLION - DISHONOR" 
-spammessage_4 = '@everyone **#PACK SMOKED** \n https://discord.gg/dishonor'
+servername_4 = "NUKED BY VERMILLION - SYLUM" 
+spammessage_4 = '@everyone **#PACK SMOKED** \n https://discord.gg/gui'
 
 
 os.system('cls')
